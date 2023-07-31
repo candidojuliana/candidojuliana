@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Juliana Candido 👋
 
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas e aprendendo programação web. 
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas e aprendendo programação web 👩🏻‍💻
 
 
 <!--
