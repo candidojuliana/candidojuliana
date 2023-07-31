@@ -1,5 +1,8 @@
 ### Olá! Eu sou a Juliana Candido 👋
 
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas e aprendendo programação web. 
+
+
 <!--
 **candidojuliana/candidojuliana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
